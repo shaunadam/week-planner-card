@@ -2,7 +2,7 @@
   "name": "week-planner-card",
   "version": "1.12.1",
   "description": "Custom Home Assistant card to display events for a number of days from one or several calendars.",
-  "source": "dist/index.js",
+  "source": "src/index.js",
   "module": "dist/week-planner-card.js",
   "targets": {
     "module": {
