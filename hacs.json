@@ -1,8 +1,1 @@
-{
-  "name": "Shaun Week planner card",
-  "content_in_root": false,
-  "render_readme": true,
-  "filename": "week-planner-card.js",
-  "homeassistant": "2025.9",
-  "type": "plugin",
-}
+{ "name": "Shaun Week planner card", "content_in_root": false, "render_readme": true, "file_type": "js", "filename": "dist/card.js", "homeassistant": "2025.9", "type": "plugin" }
